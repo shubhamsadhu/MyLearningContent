@@ -4,3 +4,4 @@
 # git push master origin
 --------------------------------------------------------------------------------
 # git remote add origin https://github.com/shubhamsadhu/hybridFramework001.git
+# git remote -v //to check remote branch linked or not
